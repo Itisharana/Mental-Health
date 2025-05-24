@@ -95,22 +95,22 @@ export default function Footer() {
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-green-400" />
                 <div>
-                  <p className="text-white font-medium">(555) 123-HELP</p>
+                  <p className="text-white font-medium">8091355163</p>
                   <p className="text-gray-400 text-sm">Mon-Fri 8AM-8PM</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-blue-400" />
                 <div>
-                  <p className="text-white">support@serenity.com</p>
+                  <p className="text-white">ranaitisha6736@gmail.com</p>
                   <p className="text-gray-400 text-sm">24-48 hour response</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-purple-400" />
                 <div>
-                  <p className="text-white">123 Wellness Ave</p>
-                  <p className="text-gray-400 text-sm">Suite 100, City, ST 12345</p>
+                  <p className="text-white">Chandigarh Group of Colleges </p>
+                  <p className="text-gray-400 text-sm">Landran, Moahli, Punjab</p>
                 </div>
               </div>
             </div>
